@@ -1,8 +1,8 @@
-# Hello Wrold
+# Hello World
 
-This is the begining of an awesome coding journey! But there is absolutely no
+This is the beginning of an awesome coding journey! But there is absolutely no
 code yet.
 
-## Collaborrators Needed
+## Collaborators Needed
 
 PRs are welcome!
